@@ -10,3 +10,8 @@ img {
     width: 100%;
     height: auto;
 }
+
+a {
+  color: #048ABF;
+  text-decoration: none;
+}
